@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    position: relative;
+}
+
+.block{
+    width: 100px;
+    height: 100px;
+
+    
+}
+
+
+
+.red{
+    background-color: red;
+    top: 0;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://telegramhero.ru/wp-content/uploads/2022/11/png-transparent-vkontakte-social-networking-service-social-media-blog-russia-social-media-angle-text-logo.png");
+}
+
+.black{
+    top: 100px;
+
+    background-color: black;
+
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://media.baamboozle.com/uploads/images/560023/1641930615_20137_url.png");
+}
+
+.blue{
+    background-color: blue;
+    top: 200px;
+
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://www.aupn.org/images/spotify_icon_sm.png");
+}
+
